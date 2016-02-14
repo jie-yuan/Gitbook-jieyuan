@@ -7,5 +7,4 @@
 使用Sketch内置的iOS icons规范180*180 尺寸
 
 第一版的icon设计如下:
-
 ![](Icon.png)
